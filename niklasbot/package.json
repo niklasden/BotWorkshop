@@ -1,0 +1,15 @@
+{
+  "name": "niklasbot",
+  "version": "1.0.0",
+  "description": "My first created chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niklas Denneler",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "restify": "^8.4.0"
+  }
+}
